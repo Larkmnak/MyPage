@@ -1,0 +1,149 @@
+* 
+{
+	margin: 0px;
+	padding: 0px;	
+}
+
+body {
+    background-image: url("back.png");
+    background-color: #cccccc;
+}
+
+#wrapper
+{
+	width: 950px;
+	margin: 0px;
+	padding: 20px;
+	font-family: arial;
+	color: white;
+}
+
+#banner
+{
+	width: 950px;
+	padding: 10px;
+	background-image: url("red_grad.png");
+}
+
+#me
+{
+	height: 150px;
+	width: 170px
+}
+
+#banner h2
+{
+	display: inline-block;
+	color: white;
+}
+
+h2
+{
+	font-family: verdana;
+	position: relative;
+	bottom: 20px;
+}
+
+#trc
+{
+	display: inline-block;
+	font-size: 12px;
+	margin-left: 180px;
+	position: relative;
+	bottom: 40px;
+	
+}
+
+p 
+{
+	font-size: 12px;
+}
+
+#top_nav
+{
+	width: 950px;
+	color: black;
+	background-image: url("tool_bar.png");
+	padding: 10px;
+}
+
+#top_nav li
+{
+	display: inline;
+	border-right: solid 1px;
+	margin-left: 20px;
+	padding-right: 20px;
+	font-weight: bold;
+
+}
+
+#side_nav
+{
+	margin: 20px;
+	width: 160px;
+	padding: 10px;
+	background-color: silver;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#side_nav li
+{
+	font-size: 12px;
+	margin-left: 20px;
+}
+
+#content
+{
+	width: 480px;
+	margin-top: 20px;
+	display: inline-block;
+	font-size: 16px; 
+}
+
+#content li
+{
+	/*font-size: 12px;*/
+	margin-left: 20px;
+}
+
+h3
+{
+	color: #800000;
+}
+
+h4
+{
+	color: #800000;
+	margin: 10px 0px;
+}
+
+a
+{
+	color: #800000;
+}
+
+.tnav
+{
+	display: inline-block;
+	margin: 0px 5px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.divider
+{
+	height: 1px;
+	margin: 10px 0px;
+	background-color: black;
+}
+
+.space
+{
+	margin:10px 0px 10px 20px;
+}
